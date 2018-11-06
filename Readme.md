@@ -46,8 +46,23 @@ sqrt((Global_active_power^2) +(Global_reactive_power^2)).
 
 
 ## visualization
-plot
-plot
+![ALt text](/Image/Trend.Season.png)
+
+In the began of the 4 years of measure the energy comsumed decreased. but after a point it become stable and have only a small mount of decrease after
+
+this show that yes using mettering help the owner to save money but there is a limit where he start decide that is better to mantain the confort and dont save anymore 
+
+Even in the last there is a incriese.
+
+one of the reasons for that is.
+
+![ALt text](/Image/ConsumeOfTheHeather.png)
+
+This plot show the consume of hot water and AC and you can see that the house started to use more the energy on the summer probably from the point on they started to use the AC and has made a increase in the spences of the next years 
+
+![ALt text](/Image/Savingofmoney.png)
+
+      
 plot
 plot
 plot
