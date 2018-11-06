@@ -63,12 +63,4 @@ This plot show the consume of hot water and AC and you can see that the house st
 ![ALt text](/Image/Savingofmoney.png)
 
       
-plot
-plot
-plot
-## insights
-
-Weather Pattern, 
-Change in Pattern
-Equilibrium
-Warm and AC
+#ON CONSTRUCTION
